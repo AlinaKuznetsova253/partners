@@ -1,5 +1,7 @@
+import { HeroModule } from "./modules/HeroModule";
+
 function App() {
-  return <div>Hello world!</div>;
+  return <HeroModule />;
 }
 
 export default App;
